@@ -1,0 +1,1 @@
+Repository containing all the projects created with the goal of learning the latest web technologies.
